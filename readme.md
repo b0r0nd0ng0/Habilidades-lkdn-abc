@@ -11,4 +11,4 @@ Este es un sitio web que muestra mis habilidades técnicas.
 - Seguridad Informática Básica
 - Soporte Técnico y Atención al Usuario
 - Instalación y Configuración de Software
-- Desarrollo y Gestión de Aplicaciones Web Básicas
+- Gestión de Aplicaciones Web Básicas
